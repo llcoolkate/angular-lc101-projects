@@ -1,0 +1,16 @@
+div.favLinks {
+    text-align: center;
+
+}
+ul.linksList {
+    display: inline-block;
+    text-align: left;
+}
+h3 {
+    color: green;
+    text-decoration-line: underline;
+}
+.favLinks {
+    text-decoration-line: underline;
+}
+
